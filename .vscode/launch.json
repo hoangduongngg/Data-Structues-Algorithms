@@ -26,11 +26,13 @@
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
-      "args": [],
+      "args": [
+        ""
+      ],
       "stopAtEntry": false,
-      "cwd": "c:\\CODE\\Other\\Thuat toan va ung dung",
+      "cwd": "c:/CODE/Other/Thuat toan va ung dung/Data-Structues-Algorithms",
       "environment": [],
-      "program": "c:\\CODE\\Other\\Thuat toan va ung dung\\build\\Debug\\outDebug",
+      "program": "c:/CODE/Other/Thuat toan va ung dung/Data-Structues-Algorithms/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/gdb.exe",
